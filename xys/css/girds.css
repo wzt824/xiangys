@@ -1,0 +1,55 @@
+.content-center {
+  padding: 8em 2em 4em 2em; }
+
+.col {
+  padding: 1em; }
+  .col h2 {
+    font-size: 2em;
+    color: #68AE00;
+    margin-bottom: 1em;
+    font-weight: 100; }
+
+.row {
+  box-sizing: border-box;
+  margin-bottom: 40px;
+  overflow: hidden; }
+
+.col-md-12, .col-md-8, .col-md-6, .col-md-4, .col-md-3, .col-md-2 {
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  box-sizing: border-box; }
+
+.col-md {
+  background: #FFFFFF;
+  border: 1px solid #d9d9d9;
+  padding: 10px 0;
+  text-align: center; }
+
+code {
+  color: #b7b7b7; }
+
+@media screen and (min-width: 991px) {
+  .col-md-2, .col-md-3, .col-md-4, .col-md-6, .col-md-12 {
+    float: left; } }
+@media screen and (min-width: 991px) {
+  .col-md-2 {
+    width: 16.6666666667%; }
+
+  .col-md-3 {
+    width: 25%; }
+
+  .col-md-4 {
+    width: 33.3333333333%; }
+
+  .col-md-6 {
+    width: 50%; }
+
+  .col-md-8 {
+    width: 66.6666666667%; }
+
+  .col-md-12 {
+    width: 100%; } }
+
+/*# sourceMappingURL=girds.css.map */
